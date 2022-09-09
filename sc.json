@@ -65,8 +65,7 @@
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},  
 {"key":"csp_AliPS","name":"🧭盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 {"key":"Zhaozy","name":"🕵️找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-{"key":"push_agent","name":"🚀推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}
-],
+{"key":"push_agent","name":"🚀推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}],
 
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
@@ -77,8 +76,7 @@
 {"name":"解析1","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}
-],
+{"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}],
 
 "flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
 
@@ -116,8 +114,7 @@
 {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
-],
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 "ads":
 ["mimg.0c1q0l.cn",
@@ -176,6 +173,4 @@
 "vivovip.mmszxc.top",
 "qiu.xixiqiu.com",
 "cdnjs.hnfenxun.com",
-"cms.qdwght.com"
-]
-}
+"cms.qdwght.com"]}
