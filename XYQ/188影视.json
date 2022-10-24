@@ -1,7 +1,7 @@
-{"作者":"张弘",
+{
 "站名":"188影视",
 "主页url":"https://188kan.com/",
-"热门推荐":"1",
+"起始页":"1",
 "直接播放":"0",
 "倒序播放":"0",
 "列表显示":"0",
@@ -15,7 +15,7 @@
 "导演":"导演：&&</div>",
 "主演":"主演：&&</div>",
 "简介":"简介：&&</p>",
-"线路数组": "<div class=\"module-tab-item tab-item&&</div>",
+"线路数组": "<div class=\"module-tab-item tab-item&&</div>[排序:多多>188蓝光]",
 "线路标题": "<span>&&</span>",
 "播放数组":"<div class=\"module-play-list-content&&</div>",
 "播放列表":"<a&&/a>",
@@ -27,4 +27,5 @@
 "搜索链接后缀":"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#追剧周表$6",
+"筛选":"1",
 "分类url":"https://188kan.com/vod-show-area-{area}-by-{by}-id-{cateId}-lang-{lang}-letter-{letter}-page-{catePg}-year-{year}.html"}
